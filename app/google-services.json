@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427745153066",
+    "firebase_url": "https://user-data-71470-default-rtdb.firebaseio.com",
+    "project_id": "user-data-71470",
+    "storage_bucket": "user-data-71470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427745153066:android:a4958e3e46479ffceb7353",
+        "android_client_info": {
+          "package_name": "com.example.smart_lamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427745153066-q9848t2neqt43979lqchadao33ilh70s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnioQ6XOzusikD54UmktnwERIq43zZa7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427745153066-q9848t2neqt43979lqchadao33ilh70s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

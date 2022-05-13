@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/action_adjust_brightness"
+        android:icon="@drawable/adjust_brightness"
+        android:title="調整亮度" />
+
+    <item
+        android:id="@+id/action_timing"
+        android:icon="@drawable/timing"
+        android:title="定時" />
+
+    <item
+        android:id="@+id/action_select_mode"
+        android:icon="@drawable/select_mode"
+        android:title="選擇模式" />
+
+    <item
+        android:id="@+id/action_historical_record"
+        android:icon="@drawable/historical_record"
+        android:title="歷史紀錄" />
+    <item
+        android:id="@+id/action_Sign_out"
+        android:icon="@drawable/sign_out"
+        android:title="登出" />
+</menu>
